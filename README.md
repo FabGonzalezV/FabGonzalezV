@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=" ">
-  <source media="(prefers-color-scheme: light)" srcset=" ">
-  <img alt="Shows logo" src=" ">
+  <source media="(prefers-color-scheme: dark)" srcset="/img/Marca-personal.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="/img/Marca-personal.jpg">
+  <img alt="Shows logo" src="/img/Marca-personal.jpg">
 </picture>
 
 <!--
