@@ -37,11 +37,12 @@
 
 |      | Frameworks |
 |-----:|-----------|
-|     1| Vue.js    |
+|     1| Sequelize |
 |     2| Node.js   |
 |     3| Express.js|
 |     4| MongoDb   |
 |     5| Postgresql|
+|     6| Figma     |
   
 </details>
 
@@ -59,7 +60,7 @@
 
 - 🔭 I’m currently working on ...
 
-I graduated on July 24, 2022 from Computer Engineering with a minor in Artificial Intelligence and I am currently looking for a new adventure in the world of software development. 
+I graduated from Computer Engineering with a minor in Artificial Intelligence and I am currently looking for a new adventure in the world of software development. 
 
 
 During my academic training as a computer engineer I acquired theoretical and practical knowledge in the following:
