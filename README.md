@@ -6,25 +6,29 @@
 
 ## About me
 
-**Hi, I'm Armando Fabián González. I'm Junior Programmer and this are some of my skills.**
+**Hi, I'm Armando Fabián González. I'm Full-stack developer and this are some of my skills.**
 ---
 
 
 <details open>
-<summary> My top Lenguajes </summary>
+<summary> My top Lenguajes and pseudo-languages</summary>
 
 |      | Languages |      
 |-----:|-----------|
 |     0| SQL       |
 |     1| JavaScript|
-|     2| CSS       |
+|     2| CSS3       |
 |     4| Python    |
 |     3| Java      |
 |     4| C         |
-|     5| C++       |
+|     5| typescript|
 |     6| C#        |
 |     7| HDL       |
 |     8|Assembly Language|
+|  9  |HTML5|
+|10|yarm|
+|11|JSON|
+|12|GDScript|
 
 </details>
 
@@ -33,16 +37,30 @@
 
 
 <details open>
-<summary>My top Frameworks</summary>
+<summary>My top Frameworks and libraries</summary>
 
-|      | Frameworks |
+|      | Frameworks and libraries |
 |-----:|-----------|
-|     1| Sequelize |
+|     1| Sequelize.js |
 |     2| Node.js   |
 |     3| Express.js|
-|     4| MongoDb   |
+|     4| MongoDB   |
 |     5| Postgresql|
 |     6| Figma     |
+|      7  |Mongoose.js|
+|8|webpack|
+|9|Github Action|
+|10|React|
+|11|Nest.js|
+|12|Material UI|
+|13|Bootstrap|
+|14|React-Bootstrap|
+|15|Blender|
+|16|Krita|
+|17|Inskcape|
+|18|Docker|
+|19|Nginx|
+|20|Redux|
   
 </details>
 
@@ -56,11 +74,7 @@
 — FabGonzalezV
 
 
-----
-
-- 🔭 I’m currently working on ...
-
-I graduated from Computer Engineering with a minor in Artificial Intelligence and I am currently looking for a new adventure in the world of software development. 
+--- 
 
 
 During my academic training as a computer engineer I acquired theoretical and practical knowledge in the following:
@@ -91,7 +105,7 @@ During my academic training as a computer engineer I acquired theoretical and pr
 |16    |neural networks                              |
 |17    | pattern recognition                         |
 |18    | mobile application programming              |
-|19    | metaheuristic algorithms programming        |
+|19    |        |
 |20    |digital image analysis algorithms programming|
 |21    |computer networks                            |
 |22    |automata design                              |
@@ -104,16 +118,6 @@ During my academic training as a computer engineer I acquired theoretical and pr
 ## My proyects
 
 Some of my projects are hosted in my repositories, take a look at them! 
-
-
-
-
-
-- 🌱 I’m currently learning ...
-
-
-I have continued to polish my skills in the programming languages I know and have started to study in my spare time topics related to software engineering and artificial intelligence.
-
 ---
 
 
