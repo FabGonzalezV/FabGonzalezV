@@ -1,134 +1,167 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/img/Marca-personal.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="/img/Marca-personal.jpg">
-  <img alt="Shows logo" src="/img/Marca-personal.jpg">
-</picture>
+# 👋 Hi, I'm Armando Fabián González
 
-## About me
-
-**Hi, I'm Armando Fabián González. I'm Full-stack developer and this are some of my skills.**
----
-
-
-<details open>
-<summary> My top Lenguajes and pseudo-languages</summary>
-
-|      | Languages |      
-|-----:|-----------|
-|     0| SQL       |
-|     1| JavaScript|
-|     2| CSS3       |
-|     4| Python    |
-|     3| Java      |
-|     4| C         |
-|     5| typescript|
-|     6| C#        |
-|     7| HDL       |
-|     8|Assembly Language|
-|  9  |HTML5|
-|10|yarm|
-|11|JSON|
-|12|GDScript|
-
-</details>
-
-
----
-
-
-<details open>
-<summary>My top Frameworks and libraries</summary>
-
-|      | Frameworks and libraries |
-|-----:|-----------|
-|     1| Sequelize.js |
-|     2| Node.js   |
-|     3| Express.js|
-|     4| MongoDB   |
-|     5| Postgresql|
-|     6| Figma     |
-|      7  |Mongoose.js|
-|8|webpack|
-|9|Github Action|
-|10|React|
-|11|Nest.js|
-|12|Material UI|
-|13|Bootstrap|
-|14|React-Bootstrap|
-|15|Blender|
-|16|Krita|
-|17|Inskcape|
-|18|Docker|
-|19|Nginx|
-|20|Redux|
+<div align="center">
   
-</details>
+## 🚀 Full-Stack Developer | Computer Engineer | Problem Solver
 
+*"With imagination and patience we can achieve anything"*
 
----
-
-
-> With imagination and patience we can achieve anything
-
-
-— FabGonzalezV
-
-
---- 
-
-
-During my academic training as a computer engineer I acquired theoretical and practical knowledge in the following:
+</div>
 
 ---
 
+## 💫 About Me
 
-<details open>
-<summary>My set of knowledge</summary>
+Passionate Full-Stack Developer with a strong foundation in Computer Engineering. I love building scalable applications, exploring new technologies, and turning complex problems into elegant solutions.
 
-|      | knowledge                                    |
-|-----:|---------------------------------------------|
-|1     |design and analysis of algorithms            |
-|2     |object-oriented software engineering         |
-|3     |structured programming                       |
-|4     |object-oriented software engineering         |
-|5     |relational database design                   |
-|6     |requirements gathering                       |
-|7     |user experience (UI/UX)                      |
-|8     |parallel and distributed programming         |
-|9     |functional programming                       |
-|10    |bash programming                             |
-|11    |assembly language programming                |
-|12    |computer architecture                        |
-|13    |analog and digital electronics               |
-|14    | microcontroller programming                 |
-|15    |web programming                              |
-|16    |neural networks                              |
-|17    | pattern recognition                         |
-|18    | mobile application programming              |
-|19    |        |
-|20    |digital image analysis algorithms programming|
-|21    |computer networks                            |
-|22    |automata design                              |
-|23    |FPGA programming                             |
- 
-</details>
+🔭 Currently working on innovative full-stack projects  
+🌱 Always learning and staying updated with the latest tech trends  
+💡 Strong believer in clean code and user-centric design  
+🎯 Focus on creating impactful digital experiences  
 
 ---
 
-## My proyects
+## 🛠️ Tech Stack
 
-Some of my projects are hosted in my repositories, take a look at them! 
+### 💻 Programming Languages
+
+```
+JavaScript   ████████████████████  95%
+TypeScript   ███████████████████   90%
+Python       ██████████████████    85%
+SQL          ██████████████████    85%
+Java         ████████████████      75%
+C#           ███████████████       70%
+C            ██████████████        65%
+Assembly     ████████████          55%
+HDL          ███████████           50%
+GDScript     ██████████            45%
+```
+
+### 🎨 Frontend Development
+
+**Frameworks & Libraries:**
+- ⚛️ React.js - Building dynamic user interfaces
+- 🔄 Redux - State management
+- 🎨 Material-UI - Component library
+- 📱 Bootstrap & React-Bootstrap - Responsive design
+- 🌐 HTML5 & CSS3 - Core web technologies
+
+### ⚙️ Backend Development
+
+**Runtime & Frameworks:**
+- 🟢 Node.js - JavaScript runtime
+- 🚂 Express.js - Web framework
+- 🦅 NestJS - Progressive Node.js framework
+
+**ORMs & Query Builders:**
+- 📊 Sequelize.js - SQL ORM
+- 🍃 Mongoose.js - MongoDB ODM
+
+### 🗄️ Databases
+
+- 🐘 PostgreSQL - Relational database
+- 🍃 MongoDB - NoSQL database
+- 💾 SQL - Database language
+
+### 🔧 DevOps & Tools
+
+**Development:**
+- 📦 Webpack - Module bundler
+- 🔧 npm/yarn - Package managers
+- 📝 JSON - Data format
+
+**Version Control & CI/CD:**
+- 🐙 Git & GitHub - Version control
+- 🔄 GitHub Actions - CI/CD automation
+
+**Containerization & Servers:**
+- 🐳 Docker - Containerization
+- 🌐 Nginx - Web server
+
+### 🎨 Design & Creative Tools
+
+- 🎭 Figma - UI/UX design
+- 🎬 Blender - 3D modeling
+- 🖌️ Krita - Digital painting
+- ✏️ Inkscape - Vector graphics
+
 ---
 
+## 🎓 Core Competencies
 
-- 😄 Pronouns: ...
+### 💼 Software Engineering
+- 🔹 Object-Oriented Programming (OOP)
+- 🔹 Design Patterns & Algorithm Analysis
+- 🔹 Software Architecture & Design
+- 🔹 Requirements Engineering
+- 🔹 Structured & Functional Programming
+- 🔹 Parallel & Distributed Programming
 
+### 🌐 Web & Mobile Development
+- 🔸 Full-Stack Web Development
+- 🔸 RESTful API Design & Development
+- 🔸 Relational Database Design & Optimization
+- 🔸 UI/UX Design Principles
+- 🔸 Mobile Application Development
+- 🔸 Bash Programming
 
-### HE/HIS/HIM  
+### 🤖 Advanced Technologies
+- 🔹 Neural Networks & AI
+- 🔹 Pattern Recognition Algorithms
+- 🔹 Digital Image Analysis
+- 🔹 Computer Networks & Protocols
+- 🔹 Automata Theory & Design
 
+### 🔌 Hardware & Low-Level
+- 🔸 Microcontroller Programming
+- 🔸 Assembly Language Programming
+- 🔸 Computer Architecture
+- 🔸 FPGA Programming
+- 🔸 Analog & Digital Electronics
 
 ---
 
+## 🌟 Technical Skills Summary
 
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript, TypeScript, Python, Java, C#, C, SQL, Assembly, HDL, GDScript |
+| **Frontend** | React, Redux, HTML5, CSS3, Material-UI, Bootstrap |
+| **Backend** | Node.js, Express.js, NestJS, Sequelize, Mongoose |
+| **Databases** | PostgreSQL, MongoDB, SQL |
+| **DevOps** | Docker, Nginx, Git, GitHub Actions, Webpack |
+| **Design** | Figma, Blender, Krita, Inkscape |
 
- 
+---
+
+## 📂 Projects
+
+🔍 Check out my repositories to see my latest projects and contributions!
+
+Some of my work includes:
+- 🌐 Full-stack web applications
+- 🤖 AI and machine learning implementations
+- 📱 Mobile applications
+- 🎮 Game development with GDScript
+- 🔧 Various tools and utilities
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)  
+🌐 **Portfolio:** [Visit my website](YOUR_PORTFOLIO_URL)  
+📧 **Email:** [Send me an email](mailto:YOUR_EMAIL)  
+
+---
+
+<div align="center">
+
+### ⚡ *"Building the future, one commit at a time"* ⚡
+
+**Pronouns:** He/Him/His
+
+</div>
