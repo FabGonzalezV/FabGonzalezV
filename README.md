@@ -1,7 +1,7 @@
 # Armando Fabián González  
-### Full-Stack Software Engineer • Backend Architecture • CI/CD 
+### Full-Stack Software Engineer • Backend Architecture • CI/CD • UX/UI
 
-Diseño y construcción de APIs, arquitecturas modulares y despliegues automatizados. Enfoque en rendimiento, escalabilidad y mantenibilidad.
+Design and development of full-stack applications, APIs, modular architectures, and automated deployments. Strong focus on performance, scalability, maintainability, and user-centered interface design.
 
 ---
 
@@ -17,14 +17,17 @@ Diseño y construcción de APIs, arquitecturas modulares y despliegues automatiz
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking_&_Server_Config-0A66C2?style=flat&logo=cisco&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ## Engineering Focus
-- Arquitectura backend y diseño de servicios desacoplados.  
-- Infraestructura reproducible con contenedores y automatización CI/CD.  
-- Observabilidad, optimización, trazabilidad y buenas prácticas.  
-- Integración de sistemas, seguridad básica y control de acceso.
+- Backend architecture and decoupled service design  
+- Full-stack application development  
+- Reproducible infrastructure with containers and CI/CD automation  
+- User interface and experience design with modern tooling  
+- Observability, optimization, traceability, and engineering best practices  
+- Systems integration, baseline security, and access control  
 
 ---
 
@@ -32,35 +35,38 @@ Diseño y construcción de APIs, arquitecturas modulares y despliegues automatiz
 
 ### **Scalable Data API**
 **Stack:** Node.js, TypeScript, PostgreSQL, Docker  
-- Arquitectura modular + repositorios.  
-- Migraciones automatizadas y seed scripting.  
-- Pruebas unitarias + integración.
+- Modular architecture + repository pattern  
+- Automated migrations and seeding  
+- Unit and integration testing  
 
 ---
 
 ### **Distributed Analytics Dashboard**
 **Stack:** React, TypeScript, Redux  
-- Code splitting, memoization y rendering optimizado.  
-- Integración con backend propio + estado global.
+- Code splitting, memoization, and optimized rendering  
+- Backend integration + global state management  
 
 ---
 
 ### **CI/CD Pipeline**
 **Stack:** GitHub Actions, Docker, Nginx  
-- Build multi-stage y deploy automatizado.  
-- Validación de calidad + lint + test + release pipeline.
+- Multi-stage builds and automated deployments  
+- Quality gates: linting, testing, and release pipeline  
 
 ---
 
 ## Technical Domains
-- APIs REST | Microservicios  
+- REST APIs | Microservices  
 - SQL Optimization | Data Modeling  
 - Docker Networking | Reverse Proxy  
 - Design Patterns | SOLID | Clean Architecture  
-- Bash | Linux Internals | Networking 
+- Bash | Linux Internals | Networking  
 - Git Flow | Versioning | Automation  
+- UI/UX | Wireframing | Prototyping | Interaction Design  
 
 ---
 
 ## Contact
-Email • LinkedIn • Portfolio
+**Email:** fabian.gonzalez.valentin@gmail.com  
+**LinkedIn:** www.linkedin.com/in/armando-glz  
+**Portfolio:** en mantenimiento
